@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\Bridge Waterways- Pair Programming\Bridge Waterways- Pair Programming\obj\Debug\Bridge Waterways- Pair Programming.csprojAssemblyReference.cache
+c:\users\wecancodeit\source\repos\Bridge Waterways- Pair Programming\Bridge Waterways- Pair Programming\obj\Debug\Bridge Waterways- Pair Programming.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\Bridge Waterways- Pair Programming\Bridge Waterways- Pair Programming\bin\Debug\Bridge Waterways- Pair Programming.exe.config
+c:\users\wecancodeit\source\repos\Bridge Waterways- Pair Programming\Bridge Waterways- Pair Programming\bin\Debug\Bridge Waterways- Pair Programming.exe
+c:\users\wecancodeit\source\repos\Bridge Waterways- Pair Programming\Bridge Waterways- Pair Programming\bin\Debug\Bridge Waterways- Pair Programming.pdb
+c:\users\wecancodeit\source\repos\Bridge Waterways- Pair Programming\Bridge Waterways- Pair Programming\obj\Debug\Bridge Waterways- Pair Programming.exe
+c:\users\wecancodeit\source\repos\Bridge Waterways- Pair Programming\Bridge Waterways- Pair Programming\obj\Debug\Bridge Waterways- Pair Programming.pdb
